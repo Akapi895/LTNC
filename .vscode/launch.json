@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "g:/CPP/Git/LTNC/week7",
-      "program": "g:/CPP/Git/LTNC/week7/build/Debug/outDebug",
+      "cwd": "g:/CPP/Git/LTNC/week9",
+      "program": "g:/CPP/Git/LTNC/week9/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
