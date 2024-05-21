@@ -71,6 +71,10 @@ SinglyLinkedListNode* insertNodeAtTail(SinglyLinkedListNode* head, int data) {
     return head;
 }
 
+/*
+
+*/
+
 int main()
 {
     ofstream fout(getenv("OUTPUT_PATH"));
